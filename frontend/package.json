@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@lastolivegames/becsy": "^0.15.5",
-    "@pixi/layers": "^2.1.0",
+    "@pixi/core": "^7.4.2",
     "pixi-viewport": "^6.0.3",
     "pixi.js": "^8.6.6",
     "ts-pattern": "^5.6.0"
