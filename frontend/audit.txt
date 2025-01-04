@@ -1,0 +1,71 @@
+# npm audit report
+
+got  <11.8.5
+Severity: moderate
+Got allows a redirect to a UNIX socket - https://github.com/advisories/GHSA-pfrx-2q88-qq97
+fix available via `npm audit fix --force`
+Will install @assetpack/core@0.8.0, which is a breaking change
+node_modules/got
+  package-json  <=6.5.0
+  Depends on vulnerable versions of got
+  node_modules/package-json
+    latest-version  0.2.0 - 5.1.0
+    Depends on vulnerable versions of package-json
+    node_modules/latest-version
+      update-notifier  0.2.0 - 5.1.0
+      Depends on vulnerable versions of latest-version
+      node_modules/update-notifier
+        msdf-bmfont-xml  >=2.6.0
+        Depends on vulnerable versions of update-notifier
+        node_modules/msdf-bmfont-xml
+          @assetpack/core  >=1.0.0-rc
+          Depends on vulnerable versions of msdf-bmfont-xml
+          node_modules/@assetpack/core
+
+jpeg-js  <=0.4.3
+Severity: high
+Infinite loop in jpeg-js - https://github.com/advisories/GHSA-xvf7-4v9q-58w6
+Uncontrolled resource consumption in jpeg-js - https://github.com/advisories/GHSA-w7q9-p3jq-fmhm
+fix available via `npm audit fix`
+node_modules/jpeg-js
+  @jimp/jpeg  <=0.12.0
+  Depends on vulnerable versions of jpeg-js
+  node_modules/@jimp/jpeg
+    @jimp/types  <=0.11.1-canary.891.908.0
+    Depends on vulnerable versions of @jimp/jpeg
+    node_modules/@jimp/types
+      jimp  0.3.6-alpha.5 - 0.21.4--canary.1163.d07ed6254d130e2995d24101e93427ec091016e6.0
+      Depends on vulnerable versions of @jimp/custom
+      Depends on vulnerable versions of @jimp/types
+      node_modules/jimp
+
+minimist  <=0.2.3
+Severity: critical
+Prototype Pollution in minimist - https://github.com/advisories/GHSA-vh95-rmgr-6w4m
+Prototype Pollution in minimist - https://github.com/advisories/GHSA-xvch-5gv4-984h
+fix available via `npm audit fix`
+node_modules/mkdirp/node_modules/minimist
+  mkdirp  0.4.1 - 0.5.1
+  Depends on vulnerable versions of minimist
+  node_modules/mkdirp
+    @jimp/core  <=0.21.4--canary.1163.d07ed6254d130e2995d24101e93427ec091016e6.0
+    Depends on vulnerable versions of mkdirp
+    Depends on vulnerable versions of phin
+    node_modules/@jimp/core
+      @jimp/custom  <=0.21.4--canary.1163.d07ed6254d130e2995d24101e93427ec091016e6.0
+      Depends on vulnerable versions of @jimp/core
+      node_modules/@jimp/custom
+
+phin  <3.7.1
+Severity: moderate
+phin may include sensitive headers in subsequent requests after redirect - https://github.com/advisories/GHSA-x565-32qp-m3vf
+fix available via `npm audit fix`
+node_modules/phin
+
+15 vulnerabilities (11 moderate, 1 high, 3 critical)
+
+To address issues that do not require attention, run:
+  npm audit fix
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
