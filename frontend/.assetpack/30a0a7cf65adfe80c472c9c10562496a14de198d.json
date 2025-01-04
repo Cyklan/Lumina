@@ -1,0 +1,174 @@
+{
+    "assets": {
+        "/home/nils/Documents/code/Lumina/frontend/src/assets": {
+            "isFolder": true,
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "/home/nils/Documents/code/Lumina/frontend/src/assets/fonts": {
+            "isFolder": true,
+            "parent": "/home/nils/Documents/code/Lumina/frontend/src/assets",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "/home/nils/Documents/code/Lumina/frontend/src/assets/fonts/OFL.txt": {
+            "isFolder": false,
+            "parent": "/home/nils/Documents/code/Lumina/frontend/src/assets/fonts",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "hash": "XkktLQ"
+        },
+        ".assetpack/cache-buster/fonts/OFL-XkktLQ.txt": {
+            "isFolder": false,
+            "transformParent": "/home/nils/Documents/code/Lumina/frontend/src/assets/fonts/OFL.txt",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "/home/nils/Documents/code/Lumina/frontend/public/assets/fonts/OFL-XkktLQ.txt": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/fonts/OFL-XkktLQ.txt",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "/home/nils/Documents/code/Lumina/frontend/src/assets/fonts/nunito-v16-latin-regular.woff2": {
+            "isFolder": false,
+            "parent": "/home/nils/Documents/code/Lumina/frontend/src/assets/fonts",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "hash": "YGf3-Q"
+        },
+        ".assetpack/cache-buster/fonts/nunito-v16-latin-regular-YGf3-Q.woff2": {
+            "isFolder": false,
+            "transformParent": "/home/nils/Documents/code/Lumina/frontend/src/assets/fonts/nunito-v16-latin-regular.woff2",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "/home/nils/Documents/code/Lumina/frontend/public/assets/fonts/nunito-v16-latin-regular-YGf3-Q.woff2": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/fonts/nunito-v16-latin-regular-YGf3-Q.woff2",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "/home/nils/Documents/code/Lumina/frontend/src/assets/images": {
+            "isFolder": true,
+            "parent": "/home/nils/Documents/code/Lumina/frontend/src/assets",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "/home/nils/Documents/code/Lumina/frontend/src/assets/images/wails-logo.png": {
+            "isFolder": false,
+            "parent": "/home/nils/Documents/code/Lumina/frontend/src/assets/images",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "hash": "cPaNDw"
+        },
+        ".assetpack/mipmap/images/wails-logo.png": {
+            "isFolder": false,
+            "transformParent": "/home/nils/Documents/code/Lumina/frontend/src/assets/images/wails-logo.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        ".assetpack/compress/images/wails-logo.png": {
+            "isFolder": false,
+            "transformParent": ".assetpack/mipmap/images/wails-logo.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        ".assetpack/cache-buster/images/wails-logo-igwwug.png": {
+            "isFolder": false,
+            "transformParent": ".assetpack/compress/images/wails-logo.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "/home/nils/Documents/code/Lumina/frontend/public/assets/images/wails-logo-igwwug.png": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/images/wails-logo-igwwug.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        ".assetpack/compress/images/wails-logo.webp": {
+            "isFolder": false,
+            "transformParent": ".assetpack/mipmap/images/wails-logo.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        ".assetpack/cache-buster/images/wails-logo-e2hdvw.webp": {
+            "isFolder": false,
+            "transformParent": ".assetpack/compress/images/wails-logo.webp",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "/home/nils/Documents/code/Lumina/frontend/public/assets/images/wails-logo-e2hdvw.webp": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/images/wails-logo-e2hdvw.webp",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        ".assetpack/mipmap/images/wails-logo@0.5x.png": {
+            "isFolder": false,
+            "transformParent": "/home/nils/Documents/code/Lumina/frontend/src/assets/images/wails-logo.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        ".assetpack/compress/images/wails-logo@0.5x.png": {
+            "isFolder": false,
+            "transformParent": ".assetpack/mipmap/images/wails-logo@0.5x.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        ".assetpack/cache-buster/images/wails-logo-6GC82Q@0.5x.png": {
+            "isFolder": false,
+            "transformParent": ".assetpack/compress/images/wails-logo@0.5x.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "/home/nils/Documents/code/Lumina/frontend/public/assets/images/wails-logo-6GC82Q@0.5x.png": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/images/wails-logo-6GC82Q@0.5x.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        ".assetpack/compress/images/wails-logo@0.5x.webp": {
+            "isFolder": false,
+            "transformParent": ".assetpack/mipmap/images/wails-logo@0.5x.png",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        ".assetpack/cache-buster/images/wails-logo-0e7OIA@0.5x.webp": {
+            "isFolder": false,
+            "transformParent": ".assetpack/compress/images/wails-logo@0.5x.webp",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        },
+        "/home/nils/Documents/code/Lumina/frontend/public/assets/images/wails-logo-0e7OIA@0.5x.webp": {
+            "isFolder": false,
+            "transformParent": ".assetpack/cache-buster/images/wails-logo-0e7OIA@0.5x.webp",
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {}
+        }
+    }
+}
